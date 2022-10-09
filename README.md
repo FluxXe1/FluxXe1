@@ -2,7 +2,11 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=just+A+Joke+Come+True;FluxXe+There+Is+Because+To+pain;Nice+To+See+You+Happy+...&center=true"></a>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=just+A+Joke+Come+True;Nice+To+See+You+Happy+...&center=true"></a>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FluxXe+Not+Me+Name)
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FluxXe+There+Is+Because+To+Pain)
 
 </p>
 <h1 align="center">★ STATISTICS ★</i></b></h3>
