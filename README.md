@@ -1,16 +1,8 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="50%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./luxxe.png" /></a></p>
 
-<br />
+<h1 align="center">★Hi WELLCOME TO ME GITHUB ★</i></b></h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-<!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=just+A+Joke+Come+True;Nice+To+See+You+Happy+...&center=true"></a>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FluxXe+Not+Me+Name)
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FluxXe+There+Is+Because+To+Pain)
+<img width="50%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./mata.png" /></a></p>
 
 </p>
 <h1 align="center">★ STATISTICS ★</i></b></h3>
@@ -27,6 +19,6 @@
 ## MY SOCIAL MEDIA
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/FluxXe1) [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/fluxxe3)
 
-## GIVE ME A STAR🌟🌟🌟🌟🌟🌟🌟
+## GIVE ME STAR🌟🌟🌟🌟🌟🌟🌟
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Thank+You+For+Visiting...)
 
