@@ -1,10 +1,11 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="WELLCOME TO ME GITHUB. FluxXe There Is Because To Pain" src="./gh-readme-header.png" /></a></p>
 
 <br />
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
+
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=just+A+Joke+Come+True;Nice+To+See+You+Happy+...&center=true"></a>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=FluxXe+Not+Me+Name)
