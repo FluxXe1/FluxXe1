@@ -2,8 +2,8 @@
   
 <p align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=Welcome+To+My+Github;FluxXe+There+Is+Because+To+Pain;Coffe+Lover;Lack+Of+Sleep+Many+Dreams&center=true"></a><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
-<h1 align="center">Wish You Happyness</h1> 
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=FluxXe;There+Is+Because+To+Pain.;Coffe+Lover;Lack+Of+Sleep+Many+Dreams.&center=true"></a><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">
+<h1 align="center">Wellcome To Me Github</h1> 
 <p align="center"><img width="50%" alt="FluxXe There Is Because To Pain" src="./eyes.png" /></a>
 
 ## Contact
