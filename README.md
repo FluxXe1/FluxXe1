@@ -10,9 +10,9 @@
 # Repository:
 > -<a href="https://github.com/FluxXe1/xerosploit"> Xerosploit </a>
 > 
-> -<a href="https://github.com/FluxXe1/checkIP"> CheckIP </a>
+> -<a href="https://github.com/FluxXe1/checkIP"> Check IP </a>
 > 
-> -<a href="https://github.com/FluxXe1/email"> Email </a>
+> -<a href="https://github.com/FluxXe1/emailScraper"> Email Scraper </a>
 
 # Contact:
 > [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/FluxXe1) [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/fluxxe3)
