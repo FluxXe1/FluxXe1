@@ -14,7 +14,9 @@
 > -<a href="https://github.com/FluxXe1/emailScraper"> Email Scraper </a>
 
 # Contact:
-> [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/FluxXe1) [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/fluxxe3)
+> [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/FluxXe1)
+> 
+> [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/fluxxe3)
 
 # Donation:
 > Bitcoin: 
