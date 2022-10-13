@@ -14,7 +14,7 @@
 > 
 > -<a href="https://github.com/FluxXe1/email-scraper"> Email Scraper </a>
 >
-> -<a href="https://github.com/FluxXe1/instaloader"> Instaloader </a>
+> -<a href="https://github.com/FluxXe1/instaloader"> Instagram Loader </a>
 >
 > -<a href="https://github.com/FluxXe1/msf-exploit"> Auto Metasploit </a>
 
