@@ -12,7 +12,11 @@
 > 
 > -<a href="https://github.com/FluxXe1/checkIP"> Check IP </a>
 > 
-> -<a href="https://github.com/FluxXe1/emailScraper"> Email Scraper </a>
+> -<a href="https://github.com/FluxXe1/email-scraper"> Email Scraper </a>
+>
+> -<a href="https://github.com/FluxXe1/instaloader"> Instaloader </a>
+>
+> -<a href="https://github.com/FluxXe1/msf-exploit"> Auto Metasploit </a>
 
 # Contact:
 > [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/FluxXe1)
