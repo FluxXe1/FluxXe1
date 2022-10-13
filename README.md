@@ -18,7 +18,7 @@
 > 
 > [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/fluxxe3)
 
-# Donation:
+# Donate:
 > Bitcoin: 
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Give+Me+Star+🌟🌟🌟🌟🌟🌟🌟)
 
