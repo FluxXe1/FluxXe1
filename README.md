@@ -6,7 +6,7 @@
     
 <h1 align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">Wellcome To Me Github<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
- [![](https://img.shields.io/badge/Repository-FluxXe-blue)](https://github.com/FluxXe1)
+ [![](https://img.shields.io/badge/-repositories-blue)](https://github.com/FluxXe1?tab=repositories)
 >
 > -<a href="https://github.com/FluxXe1/Minecraft"> Minecraft Download </a>
 >
