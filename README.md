@@ -4,7 +4,7 @@
 <!--   <a href="https://github.com/DenverCoder1/readme-typing-svg"> -->
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=FluxXe+There+Is+Because+To+Pain.;Coffe+Lovers;Lack+Of+Sleep+Many+Dreams.&center=true"></a>
     
-<h1 align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">Wellcome To Me Github<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
+<h1 align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">Wellcome<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
 
  [![](https://img.shields.io/badge/-repositories:-blue?style=for-the-badge&logo=github)](https://github.com/FluxXe1?tab=repositories)
 >
