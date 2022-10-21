@@ -8,6 +8,7 @@
 <h3 align="center">Don't Forget To Be Happy</h3>
 
 # Repository:
+
 > -<a href="https://github.com/FluxXe1/Minecraft"> Minecraft Download </a>
 >
 > -<a href="https://github.com/FluxXe1/xerosploit"> Xerosploit </a>
@@ -31,6 +32,7 @@
 
 
 # Contact:
+
 > [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FluxXe1)
 > 
 > [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/fluxxe3)
@@ -43,6 +45,7 @@
 > [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/FluxXe1)
 
 
+# 
+> ![](https://readme-typing-svg.herokuapp.com?lines=Give+Me+Star+🌟🌟🌟🌟🌟🌟🌟)
 
-# ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Give+Me+Star+🌟🌟🌟🌟🌟🌟🌟)
 
