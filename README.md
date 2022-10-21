@@ -29,8 +29,7 @@
 > [![](https://github-readme-streak-stats.herokuapp.com/?user=FluxXe1&theme=blue-green)](https://github.com/FluxXe1)
 > 
 
-#
-[![](https://img.shields.io/badge/-Contact:-blue?style=for-the-badge&logo=github)](https://github.com/FluxXe1)
+# Contact:
 
 > [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FluxXe1)
 > 
@@ -39,8 +38,8 @@
 > [![](https://img.shields.io/youtube/channel/subscribers/UCf4Rq86obwW9XVPJt6OMkDQ?label=Youtube&style=social)](https://youtube.com/UCf4Rq86obwW9XVPJt6OMkDQ)
 
 
-#
-[![](https://img.shields.io/badge/-Donate:-blue?style=for-the-badge&logo=github)](https://github.com/FluxXe1)
+# Donate:
+
 > [![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/FluxXe1)
 >
 > [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/FluxXe1)
