@@ -8,6 +8,8 @@
 <h3 align="center">Don't Forget To Be Happy</h3>
 
 # Repository:
+> -<a href="https://github.com/FluxXe1/Minecraft"> Minecraft Download </a>
+>
 > -<a href="https://github.com/FluxXe1/xerosploit"> Xerosploit </a>
 > 
 > -<a href="https://github.com/FluxXe1/checkIP"> Check IP </a>
