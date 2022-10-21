@@ -20,12 +20,33 @@
 >
 > -<a href="https://github.com/FluxXe1/msf-exploit"> Auto Metasploit </a>
 
-# Contact:
-> [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/FluxXe1)
+
+# Statistics
+
+> [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FluxXe1&theme=blue-green)](https://github.com/FluxXe1)
+>
+> [![](https://github-readme-stats.vercel.app/api?username=FluxXe1&theme=blue-green)](https://github.com/FluxXe1)
+>
+>
+> [![](https://github-readme-streak-stats.herokuapp.com/?user=FluxXe1&theme=blue-green)](https://github.com/FluxXe1)
 > 
-> [![](https://img.shields.io/badge/Twitter-yellow?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/fluxxe3)
+>[![](https://github-profile-trophy.vercel.app/?username=FluxXe1&row=1)](https://github.com/FluxXe1)
+>
+
+
+# Contact:
+> [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FluxXe1)
+> 
+> [![](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://mobile.twitter.com/fluxxe3)
+
+
 
 # Donate:
-> Bitcoin: 
+> [![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/FluxXe1)
+>
+> [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/FluxXe1)
+
+
+
 # ![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Give+Me+Star+🌟🌟🌟🌟🌟🌟🌟)
 
