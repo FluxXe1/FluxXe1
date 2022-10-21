@@ -5,10 +5,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=45&lines=FluxXe+There+Is+Because+To+Pain.;Coffe+Lovers;Lack+Of+Sleep+Many+Dreams.&center=true"></a>
     
 <h1 align="center"><img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">Wellcome To Me Github<img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px"></h1>
-<h3 align="center">Don't Forget To Be Happy</h3>
 
-# Repository:
-
+ [![](https://img.shields.io/badge/Repository-FluxXe-blue)](https://github.com/FluxXe1)
+>
 > -<a href="https://github.com/FluxXe1/Minecraft"> Minecraft Download </a>
 >
 > -<a href="https://github.com/FluxXe1/xerosploit"> Xerosploit </a>
@@ -31,7 +30,7 @@
 > 
 
 
-# Contact:
+# Contact
 
 > [![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FluxXe1)
 > 
@@ -40,7 +39,7 @@
 > [![](https://img.shields.io/youtube/channel/subscribers/UCf4Rq86obwW9XVPJt6OMkDQ?label=Youtube&style=social)](https://youtube.com/UCf4Rq86obwW9XVPJt6OMkDQ)
 
 
-# Donate:
+# Donate
 > [![](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](https://github.com/FluxXe1)
 >
 > [![](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://github.com/FluxXe1)
