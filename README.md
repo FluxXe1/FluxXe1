@@ -24,14 +24,10 @@
 # Statistics
 
 > [![](https://github-readme-stats.vercel.app/api/top-langs/?username=FluxXe1&theme=blue-green)](https://github.com/FluxXe1)
->
 > [![](https://github-readme-stats.vercel.app/api?username=FluxXe1&theme=blue-green)](https://github.com/FluxXe1)
->
->
+> 
 > [![](https://github-readme-streak-stats.herokuapp.com/?user=FluxXe1&theme=blue-green)](https://github.com/FluxXe1)
 > 
->[![](https://github-profile-trophy.vercel.app/?username=FluxXe1&row=1)](https://github.com/FluxXe1)
->
 
 
 # Contact:
